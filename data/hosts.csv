@@ -4,3 +4,50 @@ komagataella_phaffii,Komagataella phaffii,K. phaffii;Pichia pastoris,True,Protei
 yarrowia_lipolytica,Yarrowia lipolytica,Y. lipolytica,True,Oleaginous yeast chassis
 bacillus_subtilis,Bacillus subtilis,B. subtilis,True,Industrial bacterial chassis
 corynebacterium_glutamicum,Corynebacterium glutamicum,C. glutamicum,True,Industrial amino acid host
+streptomyces_natalensis,Streptomyces natalensis,TRUE,allowed_host,FDA CFR derived
+streptomyces_chattanoogensis,Streptomyces chattanoogensis,TRUE,allowed_host,FDA CFR derived
+saccharomyces_cerevisiae,Saccharomyces cerevisiae,TRUE,allowed_host,FDA CFR derived
+saccharomyces_fragilis,Saccharomyces fragilis,TRUE,allowed_host,FDA CFR derived
+candida_utilis,Candida utilis,TRUE,allowed_host,FDA CFR derived
+xanthomonas_campestris,Xanthomonas campestris,TRUE,allowed_host,FDA CFR derived
+fusarium_moniliforme,Fusarium moniliforme,TRUE,allowed_host,FDA CFR derived
+rhizopus_niveus,Rhizopus niveus,TRUE,allowed_host,FDA CFR derived
+aspergillus_niger,Aspergillus niger,TRUE,allowed_host,FDA CFR derived
+rhizopus_oryzae,Rhizopus oryzae,TRUE,allowed_host,FDA CFR derived
+micrococcus_lysodeikticus,Micrococcus lysodeikticus,TRUE,allowed_host,FDA CFR derived
+mucor_miehei,Mucor miehei,TRUE,allowed_host,FDA CFR derived
+mucor_pusillus,Mucor pusillus,TRUE,allowed_host,FDA CFR derived
+aspergillus_oryzae,Aspergillus oryzae,TRUE,allowed_host,FDA CFR derived
+endothia_parasitica,Endothia parasitica,TRUE,allowed_host,FDA CFR derived
+bacillus_cereus,Bacillus cereus,TRUE,allowed_host,FDA CFR derived
+candida_guilliermondii,Candida guilliermondii,TRUE,allowed_host,FDA CFR derived
+candida_lipolytica,Candida lipolytica,TRUE,allowed_host,FDA CFR derived
+bacillus_stearothermophilus,Bacillus stearothermophilus,TRUE,allowed_host,FDA CFR derived
+bacillus_licheniformis,Bacillus licheniformis,TRUE,allowed_host,FDA CFR derived
+acetobacter_suboxydans,Acetobacter suboxydans,TRUE,allowed_host,FDA CFR derived
+streptomyces_rubiginosus,Streptomyces rubiginosus,TRUE,allowed_host,FDA CFR derived
+actinoplanes_missouriensis,Actinoplanes missouriensis,TRUE,allowed_host,FDA CFR derived
+streptomyces_olivaceus,Streptomyces olivaceus,TRUE,allowed_host,FDA CFR derived
+streptomyces_olivochromogenes,Streptomyces olivochromogenes,TRUE,allowed_host,FDA CFR derived
+bacillus_coagulans,Bacillus coagulans,TRUE,allowed_host,FDA CFR derived
+candida_pseudotropicalis,Candida pseudotropicalis,TRUE,allowed_host,FDA CFR derived
+kluyveromyces_lactis,Kluyveromyces lactis,TRUE,allowed_host,FDA CFR derived
+lactococcus_lactis,Lactococcus lactis,TRUE,allowed_host,FDA CFR derived
+fusarium_venenatum,Fusarium venenatum,TRUE,allowed_host,Mycoprotein host (Quorn)
+escherichia_coli_k12,Escherichia coli K-12,TRUE,allowed_host,FDA CFR derived
+kluyveromyces_marxianus,Kluyveromyces marxianus,TRUE,allowed_host,FDA CFR derived
+aspergillus_niger_awamori,Aspergillus niger var. awamori,TRUE,allowed_host,FDA CFR derived
+eremothecium_ashbyii,Eremothecium ashbyii,TRUE,allowed_host,FDA CFR derived
+streptococcus_lactis,Streptococcus lactis,TRUE,allowed_host,FDA CFR derived
+streptococcus_cremoris,Streptococcus cremoris,TRUE,allowed_host,FDA CFR derived
+leuconostoc_citovorum,Leuconostoc citovorum,TRUE,allowed_host,FDA CFR derived
+leuconostoc_dextranicum,Leuconostoc dextranicum,TRUE,allowed_host,FDA CFR derived
+lactobacillus_fermentum,Lactobacillus fermentum,TRUE,allowed_host,FDA CFR derived
+streptomyces_griseus,Streptomyces griseus,TRUE,allowed_host,FDA CFR derived
+leuconostoc_mesenteroides,Leuconostoc mesenteroides,TRUE,allowed_host,FDA CFR derived
+acetobacter_xylinum,Acetobacter xylinum,TRUE,allowed_host,FDA CFR derived
+aspergillus_oryzae,Aspergillus oryzae,TRUE,allowed_host,FDA CFR derived
+bacillus_subtilis,Bacillus subtilis,TRUE,allowed_host,FDA CFR derived
+lactobacillus_bulgaricus,Lactobacillus bulgaricus,TRUE,allowed_host,FDA CFR derived
+streptococcus_thermophilus,Streptococcus thermophilus,TRUE,allowed_host,FDA CFR derived
+penicillium_roquefortii,Penicillium roquefortii,TRUE,allowed_host,FDA CFR derived
