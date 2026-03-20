@@ -154,7 +154,7 @@ def add_display_columns(df: pd.DataFrame, molecule: str, resolved_class: str) ->
     return df
 
 
-st.title("SafePath PF Search v9.0.2")
+st.title("Jin Lab Precision Fermentation Search Tool v9.0.2")
 
 with st.expander("What v9.0.2 changes"):
     st.markdown(
