@@ -1,0 +1,11 @@
+organism_name,aliases,allowed,classification,notes
+Saccharomyces cerevisiae,S. cerevisiae,True,allowed,Generally safe yeast chassis
+Komagataella phaffii,K. phaffii;Pichia pastoris,True,allowed,Common recombinant protein host
+Yarrowia lipolytica,Y. lipolytica,True,allowed,Non-conventional yeast chassis
+Bacillus subtilis,B. subtilis,True,allowed,Common industrial bacterium
+Corynebacterium glutamicum,C. glutamicum,True,allowed,Industrial amino-acid producer
+Escherichia coli,E. coli,False,excluded_pathogen_or_policy_excluded,Useful host but often excluded in food-facing safe-host workflows
+Pseudomonas aeruginosa,P. aeruginosa,False,excluded_pathogen,Canonical pathogen
+Salmonella enterica,S. enterica,False,excluded_pathogen,Canonical pathogen
+Staphylococcus aureus,S. aureus,False,excluded_pathogen,Canonical pathogen
+Klebsiella pneumoniae,K. pneumoniae,False,excluded_pathogen,Canonical pathogen

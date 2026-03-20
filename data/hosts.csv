@@ -1,0 +1,6 @@
+host_name,display_name,aliases,allowed,notes
+saccharomyces_cerevisiae,Saccharomyces cerevisiae,S. cerevisiae;baker's yeast,True,Common yeast chassis
+komagataella_phaffii,Komagataella phaffii,K. phaffii;Pichia pastoris,True,Protein secretion chassis
+yarrowia_lipolytica,Yarrowia lipolytica,Y. lipolytica,True,Oleaginous yeast chassis
+bacillus_subtilis,Bacillus subtilis,B. subtilis,True,Industrial bacterial chassis
+corynebacterium_glutamicum,Corynebacterium glutamicum,C. glutamicum,True,Industrial amino acid host
